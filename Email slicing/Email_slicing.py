@@ -1,7 +1,7 @@
 import smtplib
 
-username = 'testing1purposes2only3@gmail.com'
-password = '2CG517p55B6U2N2f3j28UrN31kL&t8vp2&'
+username = ''
+password = ''
 
 sent_from = username
 n = int(input('Enter the number of recipents\n'))
